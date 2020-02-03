@@ -1,0 +1,261 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+padding:0px;
+margin:0px;
+	}
+body{
+font-size:14px;
+font-family:arial , sans-serif , verdana;
+background:url(../images/staff/pattern.png);
+	}
+.main{
+	}
+.header-main{
+background:url(../images/staff/img_01.png) repeat-x;
+	}
+.header{
+height:180px;
+width:1000px;
+margin:0 auto;
+padding-top:10px;
+	}
+.head1{
+background:url(../images/staff/logo.png) no-repeat;
+line-height:120px;
+padding-left:170px;
+padding-top:60px;
+float:left;
+	}
+.head2{
+float:right;
+padding-top:70px;
+	}
+.clear{
+clear:both;
+	}
+	
+.nav{
+background: url(../images/staff/img_05.png) repeat-x;
+height:70px;
+margin-bottom:20px;
+z-index:0px;
+	}
+.nav-ul{
+	}
+.nav-ul ul{
+width:1000px;
+margin:0 auto;	
+	}	
+	
+.nav-ul ul li{
+display:inline;
+padding-left:10px;
+border-right:#F60 1px solid;
+	}
+.nav-ul ul li a{
+text-decoration:none;
+color:#FFF;
+font-size:16px;
+font-variant:small-caps;
+font-weight:bold;
+line-height:70px;
+padding:14px 18px;
+	}
+.nav-ul ul li a:hover{
+color:#999;
+	}
+
+.contact{
+width:1000px;
+margin:0 auto;
+padding-top:60px;
+background:url(../images/staff/our-staff.png) no-repeat;
+margin-bottom:-90px;
+	}
+.column1{
+width:500px;
+float:left;
+	}
+.col1-1{
+width:480px;
+background:url(../images/staff/staff1.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col1-1 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col1-1 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col1-2{
+width:480px;
+background:url(../images/staff/staff2.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px
+	}
+.col1-2 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col1-2 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col1-3{
+width:480px;
+background:url(../images/staff/staff3.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col1-3 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col1-3 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col1-4{
+width:480px;
+background:url(../images/staff/staff4.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col1-4 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col1-4 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+
+.column2{
+width:450px;
+float:left;
+	}
+.col2-1{
+width:480px;
+background:url(../images/staff/staff5.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col2-1 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col2-1 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col2-2{
+width:480px;
+background:url(../images/staff/staff6.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col2-2 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col2-2 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col2-3{
+width:480px;
+background:url(../images/staff/staff7.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col2-3 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col2-3 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+.col2-4{
+width:480px;
+background:url(../images/staff/staff8.png) no-repeat #eaebf0;
+height:176px;
+margin-bottom:20px;
+border-radius:0 15px 0 15px;
+	}
+.col2-4 h2{
+text-align:center;
+padding:10px 0 0 190px;
+color:#999;
+	}
+.col2-4 p{
+text-align:justify;
+padding:10px 10px 0 190px;
+	}
+
+.footer-main{
+background:url(../images/recipes/footer1.png) repeat-x;
+position:relative;
+height:167px;
+top:267px;
+z-index:0;
+	}
+	
+.footer{
+position:relative;
+z-index:0;
+width:1080px;
+margin:0 auto;
+	}
+.footer-1{
+height:267px;
+position:absolute;
+z-index:1;
+	}
+.socail{
+position:absolute;
+z-index:-0;
+	}
+.fb{
+position:absolute;
+top:161px;
+left:732px;
+	}
+.twt{
+position:absolute;
+top:166px;
+left:773px;
+	}
+.google{
+position:absolute;
+top:135px;
+left:801px;
+	}
+.blog{
+position:absolute;
+top:140px;
+left:842px;
+	}
+.pro{
+position:absolute;
+top:105px;
+left:865px;
+	}
